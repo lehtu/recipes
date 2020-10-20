@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://lehtu.github.io/recipes/sitemap.xml
